@@ -32,7 +32,8 @@
 
 6. 请设计一个界面，只有一个按钮“产生通知”。每次点击按钮，产生一条通知，显示hello+数字。数字累加。3
 
-7. 访问http://wthrcdn.etouch.cn/weather_mini?citykey=101010100，获取今天的天气情况，并显示。(注意编码是UTF-8)
+7. 访问https://restapi.amap.com/v3/weather/weatherInfo?city=110000&key=65069e6e1cebabaf68efe9391db90b56&extensions=all
+，获取今天的天气情况，并显示。(注意编码是UTF-8)
 
 8. (综合题）两个界面。界面A有两个按钮。点击“加载”按钮，将通讯录内容读出，放在SharedPreference中，并显示成功。点击显示按钮，跳转到界面B，将所有的通讯录按照名字顺序显示出来(ListView)。
 
